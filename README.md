@@ -1,6 +1,6 @@
-### Hi there 👋 ###
+# Hi there 👋 #
 ---
 
-I'm currently a Computer Science & Business Analytics student with a background in Marketing!
+### I'm currently a Computer Science & Business Analytics student with a background in Marketing! ###
 
-Learn more about me: tchowd.com
+Learn more about me: https://tchowd.com
