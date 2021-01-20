@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-CSS3 HTML5 JavaScript C++ C Python Git Arduino Linux C# Java
