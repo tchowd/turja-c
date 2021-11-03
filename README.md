@@ -5,7 +5,7 @@
 Learn more about me: https://tchowd.com
 
 ### At a glance ###
-🌱 I’m currently learning about data science and its integration with data engineering! 
+🌱 I’m currently learning about Blockchain and Solidity development! 
 
 ❓ Ask me about anything related to React, Python or JavaScript!
 
