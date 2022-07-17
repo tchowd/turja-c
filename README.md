@@ -2,7 +2,7 @@
 
 ### I'm a Computer Science & Business Analytics student! ###
 
-Learn more about me: https://tchowd.com
+Learn more about me: https://tchowd.me
 
 ### At a glance ###
 🌱 I’m currently learning about Blockchain and Solidity development! 
