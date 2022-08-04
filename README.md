@@ -7,4 +7,4 @@ Learn more about me: https://tchowd.com
 
 ❓ Ask me about anything related to Product Management and Frontend development
 
-✍🏽 Fun fact: I love writing! You can find a few articles (here)[https://turja.substack.com].
+✍🏽 Fun fact: I love writing! You can find a few articles here: https://turja.substack.com.
